@@ -27,3 +27,7 @@
 5. Compatibility test (https://www.mikroe.com/click)
 
 🗒️Documentation
+
+
+
+Feel free to give suggestions and ideas!
