@@ -7,7 +7,7 @@
 - Two-chip design, a main chip and the other one used for debugger
 - Four-member group working together
 
-## 🗒️Workfolws
+## 🗒️Workflows
 
 🔨Hardware (2 or 3 Members):
 
@@ -21,7 +21,7 @@
 🖥️Software (1 or 2 Members):
 
 1. Use of Freedom Studio (https://www.sifive.com/software)
-2. HiFive1 Rev B Testing (ask for Prof. Young)
+2. HiFive1 Rev B Testing (ask Prof. Young)
 3. Test of our own board
 4. Use of peripherals
 5. Compatibility test (https://www.mikroe.com/click)
